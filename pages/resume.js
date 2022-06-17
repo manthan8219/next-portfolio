@@ -60,12 +60,10 @@ const resume = () => {
             <span className="px-2">|</span>bootstrap
             <span className="px-2">|</span>tailwind
             <span className="px-2">|</span>Angular
-            <span className="px-2">|</span>Node.js
-            <span className="px-2">|</span>Express.js
-            <span className="px-2">|</span>MySql
-            <span className="px-2">|</span>MongoDB
-            <span className="px-2">|</span>JAVA
-            <span className="px-2">|</span>Springboot
+
+
+
+
           </p>
         </div>
 
