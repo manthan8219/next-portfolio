@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
-import logo from "/Users/manth/Desktop/Next/portfolio/public/assests/logo.svg";
+import logo from "/../public/assests/logo.svg";
 import { AiOutlineClose, AiOutlineMail, AiOutlineMenu } from "react-icons/ai";
 import { BsPersonLinesFill } from "react-icons/bs";
 import Router, {useRouter} from 'next/router'
