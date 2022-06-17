@@ -58,8 +58,14 @@ const resume = () => {
             CSS <span className="px-2">|</span>Javascript
             <span className="px-2">|</span>React
             <span className="px-2">|</span>bootstrap
-            <span className="px-2">|</span>tailwind
+            <span className="px-2">|</span>tailwind <br />
             <span className="px-2">|</span>Angular
+            <span className="px-2">|</span>Node.js
+            <span className="px-2">|</span>Express.js
+            <span className="px-2">|</span>MySql
+            <span className="px-2">|</span>MongoDB <br />
+            <span className="px-2">|</span>JAVA
+            <span className="px-2">|</span>Springboot
 
 
 
